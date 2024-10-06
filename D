@@ -1009,7 +1009,7 @@ do
                         icon.ImageTransparency = 0
                         icon.Name = '#icon'
                         icon.Position = UDim2.fromOffset(2, 1)
-                        icon.Size = UDim2.fromOffset(22, 22)
+                        icon.Size = UDim2.fromOffset(18, 18)
                         icon.Visible = true
                         icon.ZIndex = 51
                         
